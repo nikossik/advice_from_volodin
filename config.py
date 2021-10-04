@@ -1,0 +1,2 @@
+TOKEN = "2006730868:AAHtHcQGhd9-tcD5DSInRyZm-r271hpys2g"
+NONE_STOP = True
